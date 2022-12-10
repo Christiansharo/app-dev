@@ -1,5 +1,6 @@
 # app-dev
-My first repository
+# My first repository
+---
 ### My Favorite Movies or Series
 1. Chainsaw (https://domdom.stream/season/fall-2022/chainsaw-man.html?ep=4)
 !(https://animenewsandfacts.com/wp-content/uploads/2020/10/Chainsaw-man-raw.jpg)
